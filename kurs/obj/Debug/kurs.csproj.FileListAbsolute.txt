@@ -1,0 +1,10 @@
+D:\teaching\kursova\kurs\kurs\bin\Debug\kurs.exe.config
+D:\teaching\kursova\kurs\kurs\bin\Debug\kurs.exe
+D:\teaching\kursova\kurs\kurs\bin\Debug\kurs.pdb
+D:\teaching\kursova\kurs\kurs\obj\Debug\kurs.csproj.AssemblyReference.cache
+D:\teaching\kursova\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+D:\teaching\kursova\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+D:\teaching\kursova\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+D:\teaching\kursova\kurs\kurs\obj\Debug\kurs.exe
+D:\teaching\kursova\kurs\kurs\obj\Debug\kurs.pdb
+D:\teaching\kursova\kurs\kurs\obj\Debug\kurs.Avtoriz.resources
